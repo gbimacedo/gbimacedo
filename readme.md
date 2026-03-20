@@ -31,7 +31,7 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -39,7 +39,7 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -48,7 +48,7 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -56,7 +56,7 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -64,7 +64,7 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Nodejs" 
     title="Nodejs"
     width="30px" 
