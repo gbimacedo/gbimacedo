@@ -7,7 +7,7 @@
 <p align="center">
   Gabriela Andrea de Macedo, 23 anos, Osasco/SP <br>
   Estudante de Análise e Desenvolvimento de Sistemas (Impacta, 4º semestre) <br>
-  Desenvolvedora back-end com foco em Node.js e PostgreSQL
+  Desenvolvedora back-end com foco em Node.js, Javascript e Python.
 </p>
 
 <div align="center">
