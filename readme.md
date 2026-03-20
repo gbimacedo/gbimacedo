@@ -31,8 +31,7 @@
 
 ###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient"/>
 ###
 
 ### 📊 Estatísticas
