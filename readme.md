@@ -1,5 +1,11 @@
 # Gabriela Macedo 👩🏻‍💻
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 **`Desenvolvedora Backend`**
 
 Gabriela Andrea de Macedo, 23 anos, Osasco/SP.
@@ -66,12 +72,6 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
 <br/>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 ### 📊 Estatísticas
 
