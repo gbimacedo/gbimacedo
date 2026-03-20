@@ -1,17 +1,14 @@
-# Gabriela Macedo 👩🏻‍💻
+<h1 align="center">Gabriela Macedo 👩🏻‍💻</h1>
 
-**`Desenvolvedora Backend`**
+<p align="center">
+  <b>Desenvolvedora Backend</b>
+</p>
 
-Gabriela Andrea de Macedo, 23 anos, Osasco/SP.
-Estudante de Análise e Desenvolvimento de Sistemas (Impacta, 4º semestre).
-Desenvolvedora back-end com foco em Node.js e PostgreSQL.
-
-<p align="left">
-    </a> 
-    <a href="https://github.com/gbimacedo">
-    </a>
-    <a href="https://github.com/gbimacedo?tab=followers">
-
+<p align="center">
+  Gabriela Andrea de Macedo, 23 anos, Osasco/SP <br>
+  Estudante de Análise e Desenvolvimento de Sistemas (Impacta, 4º semestre) <br>
+  Desenvolvedora back-end com foco em Node.js e PostgreSQL
+</p>
 
 ###
 
