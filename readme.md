@@ -18,7 +18,6 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
     </a>
     <a href="https://github.com/gbimacedo?tab=followers">
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
