@@ -10,7 +10,9 @@
   Desenvolvedora back-end com foco em Node.js e PostgreSQL
 </p>
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"/>
+<div align="center">
+  <img height="180" src="https://i.imgflip.com/65efzo.gif"/>
+</div>
 
 
 ### 🤖 Linguagens e Tecnologias
