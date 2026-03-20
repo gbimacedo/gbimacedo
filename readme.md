@@ -11,8 +11,6 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
     <a href="https://github.com/gbimacedo">
     </a>
     <a href="https://github.com/gbimacedo?tab=followers">
-       
-</p>
 
 ###
 
