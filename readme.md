@@ -87,8 +87,8 @@ Desenvolvedora back-end com foco em Node.js e PostgreSQL.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbimacedo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph.svg">
 </picture>
