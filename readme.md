@@ -79,7 +79,7 @@ Currently focused on growing and establishing myself as a developer.
 
 ---
 
-<p align="center">📊 Estatísticas</p>
+<p align="center">📊 Statistics</p>
 
 <div align="center">
   
