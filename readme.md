@@ -1,4 +1,4 @@
-<h1 align="center">Gabriela Macedo 👩🏻‍💻</h1>
+<h1 align="center">Hello, I'm Gabriela Macedo 👋</h1>
 
 <p align="center">
   <b>Desenvolvedora Backend</b>
