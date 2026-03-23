@@ -31,7 +31,7 @@ Currently focused on growing and establishing myself as a developer.
 
 <br>
 
-<p align="center">🌐 Connect with me</p>
+<p align="center">Connect with me</p>
 
 <p align="center">
   <a href="mailto:gabrielamacedo592@gmail.com">
@@ -54,7 +54,7 @@ Currently focused on growing and establishing myself as a developer.
 
 ---
 
-<p align="center">🤖 Languages & Technologies</p>
+<p align="center"> Languages & Technologies</p>
 
 <div align="center">
 
@@ -81,16 +81,17 @@ Currently focused on growing and establishing myself as a developer.
 
 ---
 
-<p align="center">📊 Statistics</p>
+<p align="center"> Statistics</p>
 
 <div align="center">
   
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gbimacedo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gbimacedo&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&title_color=ff69b4&icon_color=c084fc&text_color=ffb6c1&border_color=ff69b4"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbimacedo&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbimacedo&theme=transparent&layout=compact&custom_title=Tecnologias&title_color=ff69b4&text_color=ffb6c1&border_color=ff69b4"/>
 
 </div>
 
+<br>
 <br>
 
 <picture>
