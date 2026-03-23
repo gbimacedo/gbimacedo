@@ -5,8 +5,10 @@
 <!-- TÍTULO -->
 <h3 align="center">💻 Desenvolvedora Backend</h3>
 
+---
+
 <!-- INFO -->
-<p align="left">
+<p align="center">
   Gabriela Andrea de Macedo · 23 anos · Osasco/SP <br>
   Estudante de Análise e Desenvolvimento de Sistemas (Impacta · 4º semestre)
 </p>
@@ -32,14 +34,14 @@ Currently focused on growing and establishing myself as a developer.
 <p align="center">🌐 Connect with me</p>
 
 <p align="center">
-
-<a href="mailto:gabrielamacedo592@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gbimacedo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+  <a href="mailto:gabrielamacedo592@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gbimacedo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 </p>
 
