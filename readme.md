@@ -81,25 +81,31 @@ Currently focused on growing and establishing myself as a developer.
 
 ---
 
-<p align="center"> Statistics</p>
+<p align="center"><b>📊 Statistics</b></p>
 
 <div align="center">
-  
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gbimacedo&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&title_color=ff69b4&icon_color=c084fc&text_color=ffb6c1&border_color=ff69b4"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbimacedo&theme=transparent&layout=compact&custom_title=Tecnologias&title_color=ff69b4&text_color=ffb6c1&border_color=ff69b4"/>
+  <!-- 🔥 Streak -->
+  <img height="180" src="https://streak-stats.demolab.com?user=gbimacedo&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffb6c1&dates=ffb6c1"/>
 
-</div>
+<p>
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gbimacedo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<br>
-<br>
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbimacedo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph.svg">
-</picture>
+</p>
 
-<br>
 
 <!-- FAIXA FINAL -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff69b4,100:ffb6c1"/>
