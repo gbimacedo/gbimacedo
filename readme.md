@@ -88,15 +88,6 @@ Currently focused on growing and establishing myself as a developer.
   <!-- 🔥 Streak -->
   <img height="180" src="https://streak-stats.demolab.com?user=gbimacedo&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffb6c1&dates=ffb6c1"/>
 
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gbimacedo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="center" 
       alt="GitHub Stats" 
