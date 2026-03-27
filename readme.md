@@ -88,15 +88,13 @@ Currently focused on growing and establishing myself as a developer.
   <!-- 🔥 Streak -->
   <img height="180" src="https://streak-stats.demolab.com?user=gbimacedo&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffb6c1&dates=ffb6c1"/>
 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbimacedo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<br clear="both">
 
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gbimacedo/gbimacedo/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- FAIXA FINAL -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff69b4,100:ffb6c1"/>
