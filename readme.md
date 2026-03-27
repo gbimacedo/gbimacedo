@@ -47,7 +47,7 @@ Currently focused on growing and establishing myself as a developer.
 
 <!-- GIF -->
 <div align="center">
-  <img height="160" src="https://i.imgflip.com/65efzo.gif"/>
+  <img height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNtdmQ0eWk0Mm1mNTliMGJsYW5zZzR4czhrNDZuZGpxeTN5dGJjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UZisxBxkjPwI/giphy.gif"/>
 </div>
 
 <br><br>
